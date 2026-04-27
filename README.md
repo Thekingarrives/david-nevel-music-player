@@ -30,8 +30,8 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/simple-music-player.git
-cd simple-music-player
+git clone https://github.com/Thekingarrives/david-nevel-music-player.git
+cd david-nevel-music-player
 
 # 编译运行
 swift Sources/main.swift
