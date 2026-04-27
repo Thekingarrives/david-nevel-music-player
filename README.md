@@ -1,4 +1,14 @@
-# Simple Music Player
+# DavidNevel 大卫的竖琴 
+
+
+因为喜欢听音乐  喜欢简洁
+自己 buddy了一个播放器 功能很简单 好在简洁
+喜欢有人欣赏 指出不足。 
+
+感谢！！！
+
+
+
 
 一款简洁优雅的 macOS 本地音乐播放器，使用 Swift 和 Cocoa 原生开发。
 
