@@ -1,0 +1,24 @@
+# Build products
+Build/
+DerivedData/
+*.app
+*.dmg
+
+# Xcode user data
+*.xcuserstate
+*.xcuserdata/
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Personal folders
+过程截图/
+截图故事/
+
+# Temporary files
+*.swp
+*.tmp
