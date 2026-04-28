@@ -9,8 +9,9 @@
 
 
 
-<img width="1200" height="796" alt="Screenshot 2026-04-28 at 12 42 28 — Thekingarrives-david-nevel-music-player- A simple and elegant macOS local music player built with Swift" src="https://github.com/user-attachments/assets/148516f2-8343-49c4-bb6f-3e009dc47e3f" />
-<img width="1200" height="796" alt="Screenshot 2026-04-28 at 12 42 43 — David Nevel" src="https://github.com/user-attachments/assets/5f1470fc-9b93-4af4-be43-e8b374cc33e8" />
+<img width="1252" height="905" alt="Screenshot 2026-04-28 at 12 43 49" src="https://github.com/user-attachments/assets/7f6ffb48-f7a9-40cb-86e3-ded09dc2f202" />
+<img width="482" height="474" alt="Screenshot 2026-04-28 at 12 44 06 — David Nevel" src="https://github.com/user-attachments/assets/29efb87f-ffc1-421e-9585-0323482e125b" />
+
 
 一款简洁优雅的 macOS 本地音乐播放器，使用 Swift 和 Cocoa 原生开发。
 
